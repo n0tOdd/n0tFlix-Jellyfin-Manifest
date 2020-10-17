@@ -52,6 +52,42 @@
                 "timestamp": "2020-08-29T00:00:00Z"
             }
         ]
+    },
+    {
+        "guid": "623de0a4-863a-440b-b35c-5d787c575a9d",
+        "name": "Subscene Subtitles",
+        "description": "Download subtitles from Subscene",
+        "overview": "Download subtitles from Subscene",
+        "owner": "n0tme",
+        "category": "Metadata",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Initial Release",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.Subscene/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.Subscene.zip",
+                "checksum": "809BE6CBD6287EC8F7033F3E5501DA22",
+                "timestamp": "2020-08-29T00:00:00Z"
+            }
+        ]
+    },
+    {
+        "guid": "7ea6dafb-c232-4f89-9dd1-f62624df7a90",
+        "name": "TheSubDB Subtitles",
+        "description": "Download subtitles from TheSubDB",
+        "overview": "Download subtitles from TheSubDB",
+        "owner": "n0tme",
+        "category": "Metadata",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Initial Release",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.TheSubDB/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.TheSubDB.zip",
+                "checksum": "809BE6CBD6287EC8F7033F3E5501DA22",
+                "timestamp": "2020-08-29T00:00:00Z"
+            }
+        ]
     }
  
 ]
