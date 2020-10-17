@@ -5,7 +5,7 @@
         "description": "Download subtitles from Addic7ed",
         "overview": "Download subtitles from Addic7ed",
         "owner": "n0tme",
-        "category": "General",
+        "category": "Subtitles",
         "versions": [
             {
                 "version": "1.0.0.0",
@@ -13,6 +13,24 @@
                 "targetAbi": "10.6.0.0",
                 "sourceUrl": "https://github.com/n0tMaster/Addic7ed-subtitles/releases/download/test/n0tFlix.Subtitles.Addic7ed.zip",
                 "checksum": "9725B2CB4338883CEF9B658F333CC980",
+                "timestamp": "2020-08-29T00:00:00Z"
+            }
+        ]
+    },
+    {
+        "guid": "6F9A84BF-CB2F-42C3-9F07-4037956F9A02",
+        "name": "NapiSub Subtitles",
+        "description": "Download subtitles from Addic7ed",
+        "overview": "Download subtitles from Addic7ed",
+        "owner": "n0tme",
+        "category": "Subtitles",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Initial Release",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.NapiSub/releases/download/1/n0tFlix.Subtitles.Napisub.zip",
+                "checksum": "2CC0D831C50D463129E4D852904EDA8D",
                 "timestamp": "2020-08-29T00:00:00Z"
             }
         ]
