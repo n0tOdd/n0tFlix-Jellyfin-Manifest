@@ -1,0 +1,21 @@
+[
+    {
+        "guid": "cb03e360-5476-493d-ab07-eb27fe485c8d",
+        "name": "Addic7ed Subtitles",
+        "description": "Download subtitles from Addic7ed",
+        "overview": "Download subtitles from Addic7ed",
+        "owner": "n0tme",
+        "category": "General",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Initial Release",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com/n0tMaster/Addic7ed-subtitles/archive/1.zip",
+                "checksum": "",
+                "timestamp": "2020-08-29T00:00:00Z"
+            }
+        ]
+    }
+ 
+]
