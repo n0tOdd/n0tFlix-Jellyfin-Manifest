@@ -5,7 +5,7 @@
         "description": "Download subtitles from Addic7ed",
         "overview": "Download subtitles from Addic7ed",
         "owner": "n0tme",
-        "category": "Subtitles",
+        "category": "Metadata",
         "versions": [
             {
                 "version": "1.0.0.0",
@@ -20,10 +20,10 @@
     {
         "guid": "6F9A84BF-CB2F-42C3-9F07-4037956F9A02",
         "name": "NapiSub Subtitles",
-        "description": "Download subtitles from Addic7ed",
-        "overview": "Download subtitles from Addic7ed",
+        "description": "Download subtitles from NapiSub",
+        "overview": "Download subtitles from NapiSub",
         "owner": "n0tme",
-        "category": "Subtitles",
+        "category": "Metadata",
         "versions": [
             {
                 "version": "1.0.0.0",
