@@ -88,6 +88,24 @@
                 "timestamp": "2020-08-29T00:00:00Z"
             }
         ]
+    },
+    {
+        "guid": "7ea6dafb-c232-4f89-9dd1-f62624df7a90",
+        "name": "SubDivX Subtitles",
+        "description": "Download subtitles from SubDivX",
+        "overview": "Download subtitles from SubDivX",
+        "owner": "n0tme",
+        "category": "Metadata",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Initial Release",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.SubDivX/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.SubDivX.zip",
+                "checksum": "CF849899206FFC7830ED8671632AF754",
+                "timestamp": "2020-08-29T00:00:00Z"
+            }
+        ]
     }
  
 ]
