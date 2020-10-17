@@ -34,6 +34,24 @@
                 "timestamp": "2020-08-29T00:00:00Z"
             }
         ]
+    },
+    {
+        "guid": "623de0a4-863a-440b-b35c-5d787c575a9d",
+        "name": "Podnapisi Subtitles",
+        "description": "Download subtitles from Podnapisi",
+        "overview": "Download subtitles from Podnapisi",
+        "owner": "n0tme",
+        "category": "Metadata",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Initial Release",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.Podnapisi/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.Podnapisi.zip",
+                "checksum": "6FC52E1CC87C4D3F8DACAE7F7FD516DC",
+                "timestamp": "2020-08-29T00:00:00Z"
+            }
+        ]
     }
  
 ]
