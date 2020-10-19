@@ -116,11 +116,11 @@
     "category": "n0tFlix",
     "versions": [
       {
-        "version": "1.0.0.0",
-        "changelog": "Initial Release",
+        "version": "1.0.0.1",
+        "changelog": "Added latest shows (is really headliners)",
         "targetAbi": "10.6.0.0",
         "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Channel.NRK/raw/main/bin/Release/netstandard2.1/n0tFlix.Channel.NRK.zip",
-        "checksum": "B24E9EF84A98650D08E9FF153B0DAD75",
+        "checksum": "49DF7519E54EEE7F1E47F139BE4BAE24",
         "timestamp": "2020-08-29T00:00:00Z"
       }
     ]
