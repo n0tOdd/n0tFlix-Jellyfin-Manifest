@@ -5,7 +5,7 @@
     "description": "Download subtitles from Addic7ed",
     "overview": "Download subtitles from Addic7ed",
     "owner": "n0tme",
-    "category": "Metadata",
+    "category": "n0tFlix",
     "versions": [
       {
         "version": "1.0.0.0",
@@ -23,7 +23,7 @@
     "description": "Download subtitles from NapiSub",
     "overview": "Download subtitles from NapiSub",
     "owner": "n0tme",
-    "category": "Metadata",
+    "category": "n0tFlix",
     "versions": [
       {
         "version": "1.0.0.0",
@@ -41,7 +41,7 @@
     "description": "Download subtitles from Podnapisi",
     "overview": "Download subtitles from Podnapisi",
     "owner": "n0tme",
-    "category": "Metadata",
+    "category": "n0tFlix",
     "versions": [
       {
         "version": "1.0.0.0",
@@ -59,7 +59,7 @@
     "description": "Download subtitles from Subscene",
     "overview": "Download subtitles from Subscene",
     "owner": "n0tme",
-    "category": "Metadata",
+    "category": "n0tFlix",
     "versions": [
       {
         "version": "1.0.0.0",
@@ -77,7 +77,7 @@
     "description": "Download subtitles from TheSubDB",
     "overview": "Download subtitles from TheSubDB",
     "owner": "n0tme",
-    "category": "Metadata",
+    "category": "n0tFlix",
     "versions": [
       {
         "version": "1.0.0.0",
@@ -95,7 +95,7 @@
     "description": "Download subtitles from SubDivX",
     "overview": "Download subtitles from SubDivX",
     "owner": "n0tme",
-    "category": "Metadata",
+    "category": "n0tFlix",
     "versions": [
       {
         "version": "1.0.0.0",
