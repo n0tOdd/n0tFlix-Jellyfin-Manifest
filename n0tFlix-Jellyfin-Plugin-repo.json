@@ -1,111 +1,128 @@
 [
-    {
-        "guid": "cb03e360-5476-493d-ab07-eb27fe485c8d",
-        "name": "Addic7ed Subtitles",
-        "description": "Download subtitles from Addic7ed",
-        "overview": "Download subtitles from Addic7ed",
-        "owner": "n0tme",
-        "category": "Metadata",
-        "versions": [
-            {
-                "version": "1.0.0.0",
-                "changelog": "Initial Release",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://github.com/n0tMaster/Addic7ed-subtitles/releases/download/test/n0tFlix.Subtitles.Addic7ed.zip",
-                "checksum": "9725B2CB4338883CEF9B658F333CC980",
-                "timestamp": "2020-08-29T00:00:00Z"
-            }
-        ]
-    },
-    {
-        "guid": "6F9A84BF-CB2F-42C3-9F07-4037956F9A02",
-        "name": "NapiSub Subtitles",
-        "description": "Download subtitles from NapiSub",
-        "overview": "Download subtitles from NapiSub",
-        "owner": "n0tme",
-        "category": "Metadata",
-        "versions": [
-            {
-                "version": "1.0.0.0",
-                "changelog": "Initial Release",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.NapiSub/releases/download/1/n0tFlix.Subtitles.Napisub.zip",
-                "checksum": "2CC0D831C50D463129E4D852904EDA8D",
-                "timestamp": "2020-08-29T00:00:00Z"
-            }
-        ]
-    },
-    {
-        "guid": "623de0a4-863a-440b-b35c-5d787c575a9d",
-        "name": "Podnapisi Subtitles",
-        "description": "Download subtitles from Podnapisi",
-        "overview": "Download subtitles from Podnapisi",
-        "owner": "n0tme",
-        "category": "Metadata",
-        "versions": [
-            {
-                "version": "1.0.0.0",
-                "changelog": "Initial Release",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.Podnapisi/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.Podnapisi.zip",
-                "checksum": "6FC52E1CC87C4D3F8DACAE7F7FD516DC",
-                "timestamp": "2020-08-29T00:00:00Z"
-            }
-        ]
-    },
-    {
-        "guid": "623de0a4-863a-440b-b35c-5d787c575a9d",
-        "name": "Subscene Subtitles",
-        "description": "Download subtitles from Subscene",
-        "overview": "Download subtitles from Subscene",
-        "owner": "n0tme",
-        "category": "Metadata",
-        "versions": [
-            {
-                "version": "1.0.0.0",
-                "changelog": "Initial Release",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.Subscene/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.Subscene.zip",
-                "checksum": "809BE6CBD6287EC8F7033F3E5501DA22",
-                "timestamp": "2020-08-29T00:00:00Z"
-            }
-        ]
-    },
-    {
-        "guid": "7ea6dafb-c232-4f89-9dd1-f62624df7a90",
-        "name": "TheSubDB Subtitles",
-        "description": "Download subtitles from TheSubDB",
-        "overview": "Download subtitles from TheSubDB",
-        "owner": "n0tme",
-        "category": "Metadata",
-        "versions": [
-            {
-                "version": "1.0.0.0",
-                "changelog": "Initial Release",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.TheSubDB/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.TheSubDB.zip",
-                "checksum": "809BE6CBD6287EC8F7033F3E5501DA22",
-                "timestamp": "2020-08-29T00:00:00Z"
-            }
-        ]
-    },
-    {
-        "guid": "7ea6dafb-c232-4f89-9dd1-f62624df7a90",
-        "name": "SubDivX Subtitles",
-        "description": "Download subtitles from SubDivX",
-        "overview": "Download subtitles from SubDivX",
-        "owner": "n0tme",
-        "category": "Metadata",
-        "versions": [
-            {
-                "version": "1.0.0.0",
-                "changelog": "Initial Release",
-                "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.SubDivX/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.SubDivX.zip",
-                "checksum": "CF849899206FFC7830ED8671632AF754",
-                "timestamp": "2020-08-29T00:00:00Z"
-            }
-        ]
-    }
- 
+  {
+    "guid": "cb03e360-5476-493d-ab07-eb27fe485c8d",
+    "name": "Addic7ed Subtitles",
+    "description": "Download subtitles from Addic7ed",
+    "overview": "Download subtitles from Addic7ed",
+    "owner": "n0tme",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial Release",
+        "targetAbi": "10.6.0.0",
+        "sourceUrl": "https://github.com/n0tMaster/Addic7ed-subtitles/releases/download/test/n0tFlix.Subtitles.Addic7ed.zip",
+        "checksum": "9725B2CB4338883CEF9B658F333CC980",
+        "timestamp": "2020-08-29T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "guid": "6F9A84BF-CB2F-42C3-9F07-4037956F9A02",
+    "name": "NapiSub Subtitles",
+    "description": "Download subtitles from NapiSub",
+    "overview": "Download subtitles from NapiSub",
+    "owner": "n0tme",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial Release",
+        "targetAbi": "10.6.0.0",
+        "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.NapiSub/releases/download/1/n0tFlix.Subtitles.Napisub.zip",
+        "checksum": "2CC0D831C50D463129E4D852904EDA8D",
+        "timestamp": "2020-08-29T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "guid": "623de0a4-863a-440b-b35c-5d787c575a9d",
+    "name": "Podnapisi Subtitles",
+    "description": "Download subtitles from Podnapisi",
+    "overview": "Download subtitles from Podnapisi",
+    "owner": "n0tme",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial Release",
+        "targetAbi": "10.6.0.0",
+        "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.Podnapisi/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.Podnapisi.zip",
+        "checksum": "6FC52E1CC87C4D3F8DACAE7F7FD516DC",
+        "timestamp": "2020-08-29T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "guid": "623de0a4-863a-440b-b35c-5d787c575a9d",
+    "name": "Subscene Subtitles",
+    "description": "Download subtitles from Subscene",
+    "overview": "Download subtitles from Subscene",
+    "owner": "n0tme",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial Release",
+        "targetAbi": "10.6.0.0",
+        "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.Subscene/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.Subscene.zip",
+        "checksum": "809BE6CBD6287EC8F7033F3E5501DA22",
+        "timestamp": "2020-08-29T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "guid": "7ea6dafb-c232-4f89-9dd1-f62624df7a90",
+    "name": "TheSubDB Subtitles",
+    "description": "Download subtitles from TheSubDB",
+    "overview": "Download subtitles from TheSubDB",
+    "owner": "n0tme",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial Release",
+        "targetAbi": "10.6.0.0",
+        "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.TheSubDB/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.TheSubDB.zip",
+        "checksum": "809BE6CBD6287EC8F7033F3E5501DA22",
+        "timestamp": "2020-08-29T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "guid": "7ea6dafb-c232-4f89-9dd1-f62624df7a90",
+    "name": "SubDivX Subtitles",
+    "description": "Download subtitles from SubDivX",
+    "overview": "Download subtitles from SubDivX",
+    "owner": "n0tme",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial Release",
+        "targetAbi": "10.6.0.0",
+        "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Subtitles.SubDivX/raw/main/bin/Release/netstandard2.1/n0tFlix.Subtitles.SubDivX.zip",
+        "checksum": "CF849899206FFC7830ED8671632AF754",
+        "timestamp": "2020-08-29T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "guid": "992a4967-bbf4-49fd-b795-97c44a986e2a",
+    "name": "NRK web tv",
+    "description": "A channel that lets you watch all the content awailable from nrk web tv",
+    "overview": "NRK web tv channel",
+    "owner": "n0tme",
+    "category": "n0tFlix",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial Release",
+        "targetAbi": "10.6.0.0",
+        "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Channel.NRK/raw/main/bin/Release/netstandard2.1/n0tFlix.Channel.NRK.zip",
+        "checksum": "B24E9EF84A98650D08E9FF153B0DAD75",
+        "timestamp": "2020-08-29T00:00:00Z"
+      }
+    ]
+  }
 ]
