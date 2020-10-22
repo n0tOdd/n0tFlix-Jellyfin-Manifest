@@ -142,5 +142,23 @@
         "timestamp": "2020-08-29T00:00:00Z"
       }
     ]
+  },
+  {
+    "guid": "f2b4840e-43bb-4e3d-abc4-0f63dcae58ea",
+    "name": "Youtube",
+    "description": "A channel that brings you some of the entertainment available on youtube",
+    "overview": "Youtube channel",
+    "owner": "n0tme",
+    "category": "n0tFlix",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "First upload, needs a search system",
+        "targetAbi": "10.6.0.0",
+        "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Channel.Youtube/raw/main/bin/Release/netstandard2.1/n0tFlix.Channel.Youtube.zip",
+        "checksum": "DD2EDD67377700D0B8D8FF790ACF6036",
+        "timestamp": "2020-08-29T00:00:00Z"
+      }
+    ]
   }
 ]
