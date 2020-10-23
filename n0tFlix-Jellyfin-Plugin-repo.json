@@ -174,7 +174,7 @@
         "changelog": "First upload",
         "targetAbi": "10.6.0.0",
         "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Channel.Redtube/raw/main/bin/Release/netstandard2.1/n0tFlix.Channel.Redtube.zip",
-        "checksum": "75A499FEA185D4F8F4AD44838130E59D",
+        "checksum": "356D912C6A89505B75D39317CDFDD9E4",
         "timestamp": "2020-08-29T00:00:00Z"
       }
     ]
@@ -192,7 +192,7 @@
         "changelog": "First upload",
         "targetAbi": "10.6.0.0",
         "sourceUrl": "https://github.com/n0tMaster/n0tFlix.Channel.Pornhub/raw/main/bin/Release/netstandard2.1/n0tFlix.Channel.Pornhub.zip",
-        "checksum": "5B5C2693EB1CB13F1CEA263D7B197400",
+        "checksum": "692A3CBD2346E6F8835081A1D116CFEE",
         "timestamp": "2020-08-29T00:00:00Z"
       }
     ]
